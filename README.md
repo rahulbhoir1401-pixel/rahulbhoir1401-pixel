@@ -1,4 +1,4 @@
-![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=>+Initiating+Deatails:;>+user-+rahulbhoir1401-pixel;>+AI+%26+DS+Student🎓;>+Web+Developer💻;>+Building+Cool+Projects🚀)
+![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=>+Initiating+Details:;>+user-+rahulbhoir1401-pixel;>+AI+%26+DS+Student🎓;>+Web+Developer💻;>+Building+Cool+Projects🚀)
 
 <br>
 
