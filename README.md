@@ -1,6 +1,17 @@
 ![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=>+Initiating+Deatails:;>+user-+rahulbhoir1401-pixel;>+AI+%26+DS+Student🎓;>+Web+Developer💻;>+Building+Cool+Projects🚀)
 
+<br>
 
+<p align="center">
+  <img src=https://github.com/rahulbhoir1401-pixel/rahulbhoir1401-pixel/blob/main/VideoProject1-ezgif.com-video-to-gif-converter.gif width="600"/>
+</p>
+
+<br>
+
+
+<p align="center">
+
+```text
 +-------------------------------------------------------------+
 | USER        : rahulbhoir1401-pixel                          |
 | NAME        : RAHUL                                         |
@@ -8,7 +19,8 @@
 | LEARNING    : Python, Prompt Engineering, System Design     |
 | COLLAB      : AI Projects, Hackathons, Open Source          |
 | FUN_FACT    : I talk to AI more than humans 🤖              |
-+-------------------------------------------------------------+
++-------------------------------------------------------------+ 
+```
 
 ## 🔧 Tech Stack
 - 💻 Languages: Python, JavaScript, TypeScript, C++
