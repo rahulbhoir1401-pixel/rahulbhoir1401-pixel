@@ -1,21 +1,23 @@
 ![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=>+Initiating+Deatails:;>+user-+rahulbhoir1401-pixel;>+AI+%26+DS+Student🎓;>+Web+Developer💻;>+Building+Cool+Projects🚀)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Rahul;AI+%26+DS+Student;Web+Developer;Building+Cool+Projects🚀" />
-</p>
 
-
-🎓 BE AI & DS Student  
-💻 Passionate about Web Dev & AI  
-🚀 Building Projects & Learning Daily  
-
----
++-------------------------------------------------------------+
+| USER        : rahulbhoir1401-pixel                          |
+| NAME        : RAHUL                                         |
+| FOCUS       : AI & Data Science, Web Development            |
+| LEARNING    : Python, Prompt Engineering, System Design     |
+| COLLAB      : AI Projects, Hackathons, Open Source          |
+| FUN_FACT    : I talk to AI more than humans 🤖              |
++-------------------------------------------------------------+
 
 ## 🔧 Tech Stack
-- Python, JavaScript
-- React, Node.js
-- MongoDB
-
+- 💻 Languages: Python, JavaScript, TypeScript, C++
+- 🌐 Frontend: React, HTML5, CSS3, Tailwind CSS
+- ⚙️ Backend: Node.js, Express.js
+- 🗄️ Databases: MongoDB, MySQL
+- 🤖 AI/ML: TensorFlow, PyTorch, Scikit-learn
+- 🔧 Tools & DevOps: Git, GitHub, Docker, Postman
+- ☁️ Cloud (Learning): AWS, Azure
 ---
 
 ## 📊 GitHub Stats
@@ -29,7 +31,23 @@
 ![Streak](https://streak-stats.demolab.com?user=rahulbhoir1401-pixel)
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Student;Web+Developer;Open+Source+Learner)
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+## 🚀 Tech Stack Badges
+![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![React](https://img.shields.io/badge/React-black?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?logo=tailwind-css)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code)
