@@ -1,12 +1,9 @@
-![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Rahul;AI+%26+DS+Student;Web+Developer;Building+Cool+Projects🚀)
+![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=>+Initiating+Deatails:;>+user-+rahulbhoir1401-pixel;>+AI+%26+DS+Student🎓;>+Web+Developer💻;>+Building+Cool+Projects🚀)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Rahul;AI+%26+DS+Student;Web+Developer;Building+Cool+Projects🚀" />
 </p>
 
-color=00F7FF  → cyan  
-color=FF5733  → orange  
-color=FFFFFF  → white
 
 🎓 BE AI & DS Student  
 💻 Passionate about Web Dev & AI  
