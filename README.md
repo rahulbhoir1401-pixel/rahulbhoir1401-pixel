@@ -35,8 +35,7 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=rahulbhoir1401-pixel&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhoir1401-pixel&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhoir1401-pixel&layout=compact&langs_count=6)
 ---
 
 ## 🔥 Streak Stats
