@@ -18,7 +18,7 @@
 | FOCUS       : AI & Data Science, Web Development            |
 | LEARNING    : Python, Prompt Engineering, System Design     |
 | COLLAB      : AI Projects, Hackathons, Open Source          |
-| FUN_FACT    : I talk to AI more than humans 🤖             |
+| FUN_FACT    : I talk to AI more than humans 🤖              |
 +-------------------------------------------------------------+ 
 ```
 
